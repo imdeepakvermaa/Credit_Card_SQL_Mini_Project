@@ -29,6 +29,4 @@ It covers:
 3. Removed unnecessary columns  
 4. Renamed table and columns for consistency  
 
-```sql
-ALTER TABLE credit_card_transactions
-CHANGE COLUMN new_date transaction_date DATE;
+
