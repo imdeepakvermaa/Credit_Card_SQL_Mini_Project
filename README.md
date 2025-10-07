@@ -1,0 +1,2 @@
+# Credit_Card_SQL_Mini_Project
+Credit_Card_Spending_Analysis_SQL
